@@ -6,3 +6,4 @@ This is a new feature.
 >>>>>>> feature-greeting
 This is a combined version of both main and feature branches.
 Modification in main branch for checker.
+Another line to test main branch commit.
