@@ -7,3 +7,4 @@ This is a new feature.
 This is a combined version of both main and feature branches.
 Modification in main branch for checker.
 Another line to test main branch commit.
+Modification in main branch.
